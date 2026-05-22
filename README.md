@@ -1,4 +1,5 @@
-# Introduction:
+# LLM-Assisted Explainable AI for Multi-Cancer Immunomics
+## Introduction:
 Cancer research involves analyzing complex gene expression data to understand how the immune system behaves in different tumor environments. However, such analysis usually requires advanced technical knowledge, making it difficult for many users to perform and interpret results.
 This project aims to develop a web-based system that uses artificial intelligence to predict immune states (such as inflamed or immune-excluded) from gene expression data. The system will highlight important genes, provide visual insights, and generate explainable predictions using machine learning techniques.
 
